@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkRemark", "LandmarkRemark\LandmarkRemark.csproj", "{2761CC0B-10B2-4A00-A69B-E27523AEB620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkRemark.Tests", "LandmarkRemark.Tests\LandmarkRemark.Tests.csproj", "{FA9184A0-47F0-4335-BCA5-0A0D218A4856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkRemark.Core", "LandmarkRemark.Core\LandmarkRemark.Core.csproj", "{C3BB38BE-F4B9-42B3-A4B3-9284B0B2F68F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkRemark.LocalDbRepository", "LandmarkRemark.LocalDbRepository\LandmarkRemark.LocalDbRepository.csproj", "{0AED78FB-2635-4ACD-9141-D737E4D1230F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkRemark.Entities", "LandmarkRemark.Entities\LandmarkRemark.Entities.csproj", "{5B457FAB-CF25-41FC-B0D3-B06CA3443E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkRemark.Utilities", "LandmarkRemark.Utilities\LandmarkRemark.Utilities.csproj", "{6EF5C29D-7CA8-4405-8333-694E01C03F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2761CC0B-10B2-4A00-A69B-E27523AEB620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2761CC0B-10B2-4A00-A69B-E27523AEB620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2761CC0B-10B2-4A00-A69B-E27523AEB620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2761CC0B-10B2-4A00-A69B-E27523AEB620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9184A0-47F0-4335-BCA5-0A0D218A4856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9184A0-47F0-4335-BCA5-0A0D218A4856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9184A0-47F0-4335-BCA5-0A0D218A4856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9184A0-47F0-4335-BCA5-0A0D218A4856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BB38BE-F4B9-42B3-A4B3-9284B0B2F68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BB38BE-F4B9-42B3-A4B3-9284B0B2F68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BB38BE-F4B9-42B3-A4B3-9284B0B2F68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BB38BE-F4B9-42B3-A4B3-9284B0B2F68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AED78FB-2635-4ACD-9141-D737E4D1230F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AED78FB-2635-4ACD-9141-D737E4D1230F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AED78FB-2635-4ACD-9141-D737E4D1230F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AED78FB-2635-4ACD-9141-D737E4D1230F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B457FAB-CF25-41FC-B0D3-B06CA3443E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B457FAB-CF25-41FC-B0D3-B06CA3443E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B457FAB-CF25-41FC-B0D3-B06CA3443E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B457FAB-CF25-41FC-B0D3-B06CA3443E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF5C29D-7CA8-4405-8333-694E01C03F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF5C29D-7CA8-4405-8333-694E01C03F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF5C29D-7CA8-4405-8333-694E01C03F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF5C29D-7CA8-4405-8333-694E01C03F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482B89C6-6339-4339-A367-396159F7EE19}
+	EndGlobalSection
+EndGlobal
